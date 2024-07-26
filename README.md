@@ -1,1 +1,1 @@
-# StringCalcu
+String Calculator TDD Kata
